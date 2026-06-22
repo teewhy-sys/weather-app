@@ -1,0 +1,14 @@
+body {
+  font-family: Arial;
+  background: #dff6ff;
+  text-align: center;
+}
+
+.app {
+  margin-top: 80px;
+}
+
+#result {
+  margin-top: 20px;
+  font-size: 18px;
+}
