@@ -1,4 +1,4 @@
-const API_KEY = "1a10169f4806e6ad131217ee7cda1093";
+const API_KEY = "API KEY";
 
 // get input
 function getCity() {
